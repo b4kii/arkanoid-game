@@ -35,7 +35,7 @@ A live demo of the game is not available currently.
 
 1. Clone the repository: `git clone https://github.com/your-username/arkanoid-game.git`
 2. Navigate to the project directory: `cd arkanoid-game`
-3. Install the required dependencies: `pip install -r requirements.txt`
+3. Install the required dependencies: `pip install pygame`
 4. Launch the game: `python main.py`
 5. Use the arrow keys to move the paddle and bounce the ball.
 
