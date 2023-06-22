@@ -115,7 +115,6 @@ class GameScene(Scene, pygame.sprite.Sprite):
         number = randint(1, 2000)
         if number < 5:
             x = randint(1,SCREEN_WIDTH - 200)
-            # self.create_enemy((x + 100, 40))
             self.create_enemy((x + 100, BORDER_OFFSET))
 
         pygame.display.update()

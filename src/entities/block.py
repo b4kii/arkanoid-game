@@ -33,7 +33,7 @@ class Block(pygame.sprite.Sprite):
         if self.block_health > 0:
             pass
         else:
-            if randint(0, 20) < 3:
+            if randint(0, 20) < 3 :
                 self.create_upgrade(self.rect.center)
             self.player_score[0] += 10 * self.block_type
             self.kill()
