@@ -21,11 +21,14 @@ Custom Arkanoid Game is a unique variation of the classic Arkanoid arcade game. 
 ## Screenshots
 
 ![Main menu](screenshots/main.png)
+![Keybinds](screenshots/keybinds.png)
 ![Stage 1](screenshots/game_stage1.png)
 ![Stage 2](screenshots/game_stage2.png)
 ![Stage 3](screenshots/game_stage3.png)
 ![Stage 4](screenshots/game_stage4.png)
 ![Stage 5](screenshots/game_stage5.png)
+![Pause](screenshots/pause.png)
+![Lose](screenshots/lose.png)
 
 ## Demo
 
